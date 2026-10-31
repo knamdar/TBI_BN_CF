@@ -1,0 +1,22 @@
+# Python 3.11
+pandas==3.0.6
+numpy==2.4.6
+scipy==1.16.3
+scikit-learn==1.6.1
+matplotlib==3.11.2
+statsmodels==0.15.0
+pyarrow==25.0.1
+
+# Bayesian networks
+bnlearn==0.15.0
+pgmpy==1.1.2
+networkx==3.6.1
+pygraphviz==2.0.3
+
+# causal forests
+econml==0.16.0
+shap==0.48.0
+
+# imputation
+miceforest==6.0.5
+lightgbm==4.6.0
